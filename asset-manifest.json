@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ampere-Maxwell/static/css/main.b8907047.css",
+    "main.js": "/Ampere-Maxwell/static/js/main.11663d16.js",
+    "static/js/787.7d34d503.chunk.js": "/Ampere-Maxwell/static/js/787.7d34d503.chunk.js",
+    "static/media/Amarillo.gif": "/Ampere-Maxwell/static/media/Amarillo.ca84e5073efdc48535e8.gif",
+    "static/media/Morado.gif": "/Ampere-Maxwell/static/media/Morado.c515a20c3b4ee3e0e0d0.gif",
+    "static/media/leyAmpereMaxell.svg": "/Ampere-Maxwell/static/media/leyAmpereMaxell.fa6103c12947111f92cafe2f5029b2ac.svg",
+    "static/media/leyAmpere.svg": "/Ampere-Maxwell/static/media/leyAmpere.d430b39d9cd1feadc2b8bc74def69fff.svg",
+    "static/media/leyAMB.svg": "/Ampere-Maxwell/static/media/leyAMB.4c8efea48a4862be8c201bb88ee1f445.svg",
+    "static/media/leyAM.svg": "/Ampere-Maxwell/static/media/leyAM.2577df3624612766cff5519cc4298050.svg",
+    "index.html": "/Ampere-Maxwell/index.html",
+    "main.b8907047.css.map": "/Ampere-Maxwell/static/css/main.b8907047.css.map",
+    "main.11663d16.js.map": "/Ampere-Maxwell/static/js/main.11663d16.js.map",
+    "787.7d34d503.chunk.js.map": "/Ampere-Maxwell/static/js/787.7d34d503.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8907047.css",
+    "static/js/main.11663d16.js"
+  ]
+}
