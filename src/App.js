@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import './App.css';
-import { Lightbulb, LightbulbFill } from 'react-bootstrap-icons';
+// import { Lightbulb, LightbulbFill } from 'react-bootstrap-icons';
 import StcB from './img/Blanco.jpg';
 import StcN from './img/Negro.jpg';
 import GifM from './img/Morado.gif';
@@ -121,9 +121,7 @@ function App() {
               />
               
               <button onClick={encender}>
-                {encendido
-                ? <LightbulbFill />
-                : <Lightbulb />}
+                Iniciar
               </button>
             </div>
             <div >
@@ -154,6 +152,7 @@ function App() {
           </div>
           </div>
         </section>
+        <br /><br /><br />
       </container>
     </>
   );
